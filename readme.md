@@ -1,1 +1,1 @@
-A star path finding algorithem
+A star path finding algorithm
